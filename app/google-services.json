@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202084694638",
+    "project_id": "rto-vehicle-info-21a05",
+    "storage_bucket": "rto-vehicle-info-21a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202084694638:android:01574eb3766530e3d1c47f",
+        "android_client_info": {
+          "package_name": "com.rto.vehicle.numberplate.finder.information"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202084694638-hd2fe7kgcl1pbdbn02eqkcg9uc25svsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpoxS4DSHF_L-S8mK2qUyIlwZcmqFG_-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202084694638-hd2fe7kgcl1pbdbn02eqkcg9uc25svsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

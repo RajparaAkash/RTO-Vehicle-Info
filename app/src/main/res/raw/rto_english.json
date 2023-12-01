@@ -1,0 +1,2378 @@
+﻿{
+  "data": [
+    {
+      "Isimage": "1",
+      "ImageUrl": "q3.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Compulsory keep left.",
+      "correctAnswer": "2",
+      "option": [
+        "Keep left.",
+        "There is no road on the left.",
+        "Compulsory keep left."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q4.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "No Parking.",
+      "correctAnswer": "0",
+      "option": [
+        "Stop.",
+        "No Parking.",
+        "Hospital Ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q5.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Refreshment stall ahead.",
+      "correctAnswer": "1",
+      "option": [
+        "Bridge ahead.",
+        "Refreshment stall ahead.",
+        "Ferry service."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q6.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Slippery road.",
+      "correctAnswer": "1",
+      "option": [
+        "Loose gravel",
+        "Slippery road",
+        "Slippery road."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q7.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Cycle crossing",
+      "correctAnswer": "0",
+      "option": [
+        "Cycle crossing",
+        "Cycle crossing prohibited",
+        "No entry for cycles."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q8.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Y-inter section on left",
+      "correctAnswer": "2",
+      "option": [
+        "Turn left",
+        "Turn right",
+        "Y-inter section on left."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q9.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Y-inter section on right",
+      "correctAnswer": "1",
+      "option": [
+        "Y-inter section on left",
+        "Y-inter section on right",
+        "Side road left."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q10.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Narrow bridge ahead",
+      "correctAnswer": "1",
+      "option": [
+        "Roads on both sides in front",
+        "Narrow bridge ahead",
+        "Narrow road ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q12.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Dangerous dip",
+      "correctAnswer": "1",
+      "option": [
+        "Narrow road ahead",
+        "Dangerous dip",
+        "Ferry service."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q13.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Narrow road ahead",
+      "correctAnswer": "0",
+      "option": [
+        "Narrow road ahead",
+        "Narrow bridge ahead",
+        "Roads on both sides ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q14.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "End of speed restriction",
+      "correctAnswer": "2",
+      "option": [
+        "Road closed",
+        "No parking",
+        "End of speed restriction."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q15.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Level crossing guarded",
+      "correctAnswer": "2",
+      "option": [
+        "Railway station nearest",
+        "Unguarded level crossing",
+        "Level crossing guarded."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q16.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Road to the right in front",
+      "correctAnswer": "0",
+      "option": [
+        "Road to the right in front",
+        "Compulsory turn right",
+        "Turn to right prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q17.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Major road ahead",
+      "correctAnswer": "1",
+      "option": [
+        "Cross road ahead",
+        "Major road ahead",
+        "First aid."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q18.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Right reverse bend",
+      "correctAnswer": "0",
+      "option": [
+        "Right reverse bend",
+        "Left reverse bend",
+        "Turn right and go ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q19.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Left reverse bend",
+      "correctAnswer": "1",
+      "option": [
+        "Right reverse bend",
+        "Left reverse bend",
+        "Turn left and go ahead"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q20.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Left hairpin bend",
+      "correctAnswer": "1",
+      "option": [
+        "Left descend",
+        "Left hairpin bend",
+        "Keep left"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q21.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Right hairpin bend",
+      "correctAnswer": "0",
+      "option": [
+        "Right hairpin bend",
+        "Right ascend and descend",
+        "Right descend"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q22.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Right turn prohibited",
+      "correctAnswer": "1",
+      "option": [
+        "U-turn prohibited",
+        "Right turn prohibited",
+        "Overtaking through left prohibited"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q23.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "U-turn prohibited",
+      "correctAnswer": "0",
+      "option": [
+        "U-turn prohibited",
+        "Right turn prohibited",
+        "Overtaking through left prohibited+"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q24.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Bullock cart prohibited",
+      "correctAnswer": "0",
+      "option": [
+        "Bullock cart prohibited",
+        "Cycle prohibited",
+        "All vehicles prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q25.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Trucks prohibited",
+      "correctAnswer": "0",
+      "option": [
+        "Trucks prohibited",
+        "Bus prohibited",
+        "Heavy vehicles prohibited"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q26.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Compulsory go ahead or turn left",
+      "correctAnswer": "1",
+      "option": [
+        "May turn to left",
+        "Compulsory go ahead or turn left",
+        "Side road left"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q27.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Cross road ahead",
+      "correctAnswer": "0",
+      "option": [
+        "Cross road ahead",
+        "No entry",
+        "Hospital."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q28.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Compulsory go ahead or turn right",
+      "correctAnswer": "0",
+      "option": [
+        "Compulsory go ahead or turn right",
+        "Compulsory go ahead or turn left",
+        "Side road ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q29.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Sound horn compulsory",
+      "correctAnswer": "0",
+      "option": [
+        "Sound horn compulsory",
+        "Sound horn continuously",
+        "Horn prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q30.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Parking on the right allowed",
+      "correctAnswer": "1",
+      "option": [
+        "Keep right side",
+        "Parking on the right allowed",
+        "Compulsory turn to right"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q31.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Axle load limit",
+      "correctAnswer": "2",
+      "option": [
+        "Side road right",
+        "Side road left",
+        "Axle load limit"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q32.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Men at work",
+      "correctAnswer": "0",
+      "option": [
+        "Men at work",
+        "Children playing",
+        "Pedestrian crossing."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q33.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Round about",
+      "correctAnswer": "2",
+      "option": [
+        "Turn right",
+        "Turn left",
+        "Round about."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q34.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Y-inter section",
+      "correctAnswer": "2",
+      "option": [
+        "Y-inter section on left",
+        "Y-inter section on right",
+        "Y-inter section"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q35.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "No through road",
+      "correctAnswer": "0",
+      "option": [
+        "No through road",
+        "Bump ahead",
+        "Road repairing work going on."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q36.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "One way sign",
+      "correctAnswer": "0",
+      "option": [
+        "One way sign",
+        "Vehicles prohibited in both directions",
+        "Overtaking prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q37.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Steep ascend",
+      "correctAnswer": "0",
+      "option": [
+        "Steep ascend",
+        "Steep descend",
+        "Slippery road."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q38.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Steep descend",
+      "correctAnswer": "1",
+      "option": [
+        "Steep ascend",
+        "Steep descend",
+        "Slippery road."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q39.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Compulsory turn left",
+      "correctAnswer": "2",
+      "option": [
+        "Keep left",
+        "There is no road to left",
+        "Compulsory turn left."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q40.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "No Stopping or standing",
+      "correctAnswer": "1",
+      "option": [
+        "End of restriction",
+        "No Stopping or standing",
+        "No parking."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q41.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Hospital",
+      "correctAnswer": "1",
+      "option": [
+        "Give way",
+        "Hospital",
+        "First aid center."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q42.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Compulsory turn right",
+      "correctAnswer": "0",
+      "option": [
+        "Compulsory turn right",
+        "Side road right",
+        "Keep right"
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q43.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Staggered intersections",
+      "correctAnswer": "0",
+      "option": [
+        "Staggered intersections",
+        "Zigzag road",
+        "No right and left turn."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q44.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Side road left",
+      "correctAnswer": "0",
+      "option": [
+        "Side road left",
+        "Turn left",
+        "No left turn."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q45.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Road widens ahead",
+      "correctAnswer": "2",
+      "option": [
+        "Narrow road ahead",
+        "Y-intersection",
+        "Road widens ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q46.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Overtaking prohibited",
+      "correctAnswer": "2",
+      "option": [
+        "Entry through right side prohibited",
+        "Entry through left side prohibited",
+        "Overtaking prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q47.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Give way",
+      "correctAnswer": "0",
+      "option": [
+        "Give way",
+        "Hospital ahead",
+        "Traffic island ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q48.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "No entry",
+      "correctAnswer": "0",
+      "option": [
+        "No entry",
+        "One way",
+        "Speed limit ends."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q49.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Sharp curve to the right",
+      "correctAnswer": "1",
+      "option": [
+        "Right turn prohibited",
+        "Sharp curve to the right",
+        "U-turn prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q50.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Left hand curve",
+      "correctAnswer": "0",
+      "option": [
+        "Left hand curve",
+        "Left ascend",
+        "Keep left."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q51.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Horn prohibited",
+      "correctAnswer": "0",
+      "option": [
+        "Horn prohibited",
+        "Compulsory sound horn.",
+        "May sound horn."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q52.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Pedestrian crossing.",
+      "correctAnswer": "0",
+      "option": [
+        "Pedestrian crossing.",
+        "Pedestrians may enter.",
+        "Pedestrian prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q53.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Pedestrian prohibited.",
+      "correctAnswer": "2",
+      "option": [
+        "Students prohibited.",
+        "Pedestrian permitted.",
+        "Pedestrian prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q54.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Resting Place.",
+      "correctAnswer": "1",
+      "option": [
+        "Hospital",
+        "Resting Place.",
+        "First aid."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q55.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Guarded railway crossing (200 mtrs ahead).",
+      "correctAnswer": "0",
+      "option": [
+        "Guarded railway crossing (200 mtrs ahead).",
+        "Unguarded railway crossing.",
+        "Unguarded railway crossing 200 mtrs. ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q56.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "School ahead.",
+      "correctAnswer": "0",
+      "option": [
+        "School ahead.",
+        "Hospital ahead.",
+        "Pedestrian crossing prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q57.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Compulsory ahead only.",
+      "correctAnswer": "0",
+      "option": [
+        "Compulsory ahead only.",
+        "One way.",
+        "Prohibited in both directions."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q58.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Prohibited in both directions.",
+      "correctAnswer": "2",
+      "option": [
+        "Go straight.",
+        "One way.",
+        "Prohibited in both directions."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q59.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Falling rocks.",
+      "correctAnswer": "2",
+      "option": [
+        "Rough road.",
+        "Slippery road.",
+        "Falling rocks."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q60.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "No thorough side road.",
+      "correctAnswer": "0",
+      "option": [
+        "No thorough side road.",
+        "Left turn ahead.",
+        "Bridge ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q61.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Barrier ahead.",
+      "correctAnswer": "0",
+      "option": [
+        "Barrier ahead.",
+        "Railway cross ahead.",
+        "Weigh bridge ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q62.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Slippery road.",
+      "correctAnswer": "0",
+      "option": [
+        "Slippery road.",
+        "Gravel ahead.",
+        "No entry for motor car."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q65.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "All motor vehicles prohibited.",
+      "correctAnswer": "0",
+      "option": [
+        "All motor vehicles prohibited.",
+        "No entry for cars and motor cycles.",
+        "Entry allowed for cars and motor cycles."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q66.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "No Parking.",
+      "correctAnswer": "1",
+      "option": [
+        "Stop.",
+        "No Parking.",
+        "Hospital ahead."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q67.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Hump or rough road.",
+      "correctAnswer": "0",
+      "option": [
+        "Hump or rough road.",
+        "Zigzag road.",
+        "Ghat road."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q68.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Ferry.",
+      "correctAnswer": "0",
+      "option": [
+        "Ferry.",
+        "No road ahead.",
+        "Water on the road."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q69.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Gap in the median.",
+      "correctAnswer": "2",
+      "option": [
+        "Drainage in the middle.",
+        "Bridge ahead.",
+        "Gap in the median."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q70.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Possibility of animal on the road.",
+      "correctAnswer": "1",
+      "option": [
+        "Cattle prohibited.",
+        "Possibility of animal on the road.",
+        "Vehicles carrying cattle prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q71.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Parking allowed on both sides.",
+      "correctAnswer": "1",
+      "option": [
+        "Parking prohibited.",
+        "Parking allowed on both sides.",
+        "Parking allowed on One sides."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q72.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Petrol pump.",
+      "correctAnswer": "0",
+      "option": [
+        "Petrol pump.",
+        "Garage.",
+        "Air-filling facility."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q73.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Parking lot- Taxis.",
+      "correctAnswer": "1",
+      "option": [
+        "No entry for private cars.",
+        "Parking lot- Taxis.",
+        "Parking for police vehicles."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q74.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Parking lot - auto rickshaws.",
+      "correctAnswer": "0",
+      "option": [
+        "Parking lot - auto rickshaws.",
+        "Auto rickshaws prohibited.",
+        "Auto rickshaws repairing."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q77.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Parking lot - scooter and motor cycles.",
+      "correctAnswer": "0",
+      "option": [
+        "Parking lot - scooter and motor cycles.",
+        "Scooter and motor cycles prohibited.",
+        "Scooter and motor cycles repairing."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q78.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Slow down and proceed with caution.",
+      "correctAnswer": "1",
+      "option": [
+        "Stop the vehicle",
+        "sound horn and proceed.",
+        "Slow down and proceed with caution.",
+        "Sound horn continuously and proceed."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q79.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Drive the vehicle not exceeding 50 Km/hr.",
+      "correctAnswer": "0",
+      "option": [
+        "Drive the vehicle not exceeding 50 Km/hr.",
+        "Drive the vehicle at 50 Km/hr.",
+        "Drive the vehicle exceeding 50 Km/hr."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q80.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Left turn prohibited.",
+      "correctAnswer": "2",
+      "option": [
+        "Overtaking prohibited through the right side.",
+        "Turn left.",
+        "Left turn prohibited."
+      ]
+    },
+    {
+      "Isimage": "1",
+      "ImageUrl": "q137.jpg",
+      "Question": "What does following sign represent?",
+      "Answer": "Change the lane with caution.",
+      "correctAnswer": "1",
+      "option": [
+        "Lane changing is permitted.",
+        "Change the lane with caution.",
+        "Lane changing is prohibited."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Using Unregistered vehicle in public place is",
+      "Answer": "Illegal.",
+      "correctAnswer": "0",
+      "option": [
+        "Illegal.",
+        "Legal",
+        "Legal if there is urgency."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The driver of a vehicle shall not take U-turn",
+      "Answer": "In a road where U-turn is prohibited.",
+      "correctAnswer": "0",
+      "option": [
+        "In a road where U-turn is prohibited.",
+        "In a busy road.",
+        "When there are vehicles passing through the left."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Minimum age for getting a licence to drive motor cycle without gear is",
+      "Answer": "16 years.",
+      "correctAnswer": "2",
+      "option": [
+        "18 years.",
+        "21 years.",
+        "16 years."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Before taking turn, driver should",
+      "Answer": "Slow down the vehicle.",
+      "correctAnswer": "0",
+      "option": [
+        "Slow down the vehicle.",
+        "Not slow down the vehicle.",
+        "Drive fast."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While driving at night on city roads, keep your head-light on a",
+      "Answer": "Low beam.",
+      "correctAnswer": "0",
+      "option": [
+        "Low beam.",
+        "High beam.",
+        "Switch off all lights."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Red traffic light indicates",
+      "Answer": "Stop the vehicle.",
+      "correctAnswer": "1",
+      "option": [
+        "Vehicle can proceed with caution.",
+        "Stop the vehicle.",
+        "Slow down."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "You can apply for a permanent driving licence after",
+      "Answer": "30 days from the date of issue of learners's licence.",
+      "correctAnswer": "0",
+      "option": [
+        "30 days from the date of issue of learners's licence.",
+        "60 days from the date of issue of learners's licence.",
+        "180 days from the date of issue of learners's licence."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While your vehicle is being overtaken, you should",
+      "Answer": "Reduce the speed of your vehicle.",
+      "correctAnswer": "1",
+      "option": [
+        "Stop your vehicle and let the vehicle to overtake.",
+        "Reduce the speed of your vehicle.",
+        "Not to obstruct the other vehicle from overtaking."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While you are driving with head light in high beam during night, a vehicle approaches from opposite direction, you will",
+      "Answer": "Dim the head light till the vehicle passes.",
+      "correctAnswer": "2",
+      "option": [
+        "Proceed keeping to the left.",
+        "Switch the head light from dim to bright alternately several times.",
+        "Dim the head light till the vehicle passes."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When a school bus is stopped for picking up or dropping down students",
+      "Answer": "Proceed slowly and cautiously since there is chance of students suddenly crossing the road.",
+      "correctAnswer": "2",
+      "option": [
+        "Blow horn and proceed.",
+        "Proceed slowly and cautiously since there is chance of students suddenly crossing the road.",
+        "No special care is required."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While turning left, you should",
+      "Answer": "Show the left turn signal, keep your vehicle to the left side of the road and turn left.",
+      "correctAnswer": "2",
+      "option": [
+        "Show the left turn signal",
+        "drive to the center and turn to left.",
+        "Sound horn and turn to left.",
+        "Show the left turn signal",
+        "keep your vehicle to the left side of the road and turn left."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "How does headrest of the seat help?",
+      "Answer": "Protects you from neck injury in case of an accident.",
+      "correctAnswer": "1",
+      "option": [
+        "You can relax while driving.",
+        "Protects you from neck injury in case of an accident.",
+        "Seat looks beautiful with headrests."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When an ambulance is approaching",
+      "Answer": "The driver shall allow free passage by driving to the left side of the road.",
+      "correctAnswer": "2",
+      "option": [
+        "Allow passage if there are no vehicle from front side.",
+        "No preference need to be given.",
+        "The driver shall allow free passage by driving to the left side of the road."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "If the driver of an auto rickshaw refusing the offer for journey for the reason that the distance is short. What can happen?",
+      "Answer": "The driving licence is liable to be suspended/cancelled, Or Fine is attracted",
+      "correctAnswer": "2",
+      "option": [
+        "The driving licence is liable to be suspended/cancelled.",
+        "Fine is attracted.",
+        "Both of the Above."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Signal to take U-turn is",
+      "Answer": "Right turn signal.",
+      "correctAnswer": "1",
+      "option": [
+        "Left turn signal.",
+        "Right turn signal.",
+        "Slow down signal."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Overtaking is prohibited in the following case",
+      "Answer": "Narrow bridge.",
+      "correctAnswer": "2",
+      "option": [
+        "State highway",
+        "Panchayat roads.",
+        "Narrow bridge."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "You can talk on mobile while driving any vehicle",
+      "Answer": "No.",
+      "correctAnswer": "1",
+      "option": [
+        "Yes.",
+        "No.",
+        "You can talk after slowing down your vehicle."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When fuel is filled in a vehicle, you",
+      "Answer": "shall not smoke",
+      "correctAnswer": "1",
+      "option": [
+        "Shall not check air pressure",
+        "shall not smoke",
+        "Shall not use any light of the vehicle"
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Maximum permissible speed of a motor cycle",
+      "Answer": "50 Km/hr.",
+      "correctAnswer": "1",
+      "option": [
+        "No limit",
+        "50 Km/hr.",
+        "60 Km/hr."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When should you use mobile phone?",
+      "Answer": "When the vehicle is parked a side.",
+      "correctAnswer": "2",
+      "option": [
+        "When the vehicle is running at very slow speed.",
+        "When the vehicle is running at medium speed on express highway.",
+        "When the vehicle is parked a side."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Parking is prohibited in the following place",
+      "Answer": "Entrance of hospital.",
+      "correctAnswer": "0",
+      "option": [
+        "Entrance of hospital.",
+        "Left side of the road.",
+        "Market area."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The number of passengers permitted to be taken in vehicle is recorded in the",
+      "Answer": "Registration certificate.",
+      "correctAnswer": "0",
+      "option": [
+        "Registration certificate.",
+        "Tax token.",
+        "Fitness."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "A place where parking is prohibited",
+      "Answer": "On foot-path.",
+      "correctAnswer": "2",
+      "option": [
+        "In front of a parked vehicle.",
+        "On one-way road.",
+        "On foot-path."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The driver of the vehicle in front has not given signal for allowing over taking",
+      "Answer": "We shall not overtake.",
+      "correctAnswer": "1",
+      "option": [
+        "We can overtake.",
+        "We shall not overtake.",
+        "We can overtake blowing horn."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Driver of a major vehicle shall drive through",
+      "Answer": "The left side of the road.",
+      "correctAnswer": "1",
+      "option": [
+        "The right side of the road.",
+        "The left side of the road.",
+        "The center of the road."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When the yellow light at an intersection appear on the signal light, the driver of a approaching vehicle should",
+      "Answer": "Slow down to stop.",
+      "correctAnswer": "1",
+      "option": [
+        "Ensure safety and drive away.",
+        "Slow down to stop.",
+        "Sound horn and proceed."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The hand brake is to be used",
+      "Answer": "To park a vehicle.",
+      "correctAnswer": "2",
+      "option": [
+        "To reduce the speed.",
+        "To apply sudden brake.",
+        "To park a vehicle."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When a blind person crosses the road holding white cane.",
+      "Answer": "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle.",
+      "correctAnswer": "0",
+      "option": [
+        "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle.",
+        "Blow horn and proceed.",
+        "Slow down and proceed with caution."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "More than two persons on a two wheeler is",
+      "Answer": "Violation of law.",
+      "correctAnswer": "1",
+      "option": [
+        "Allowed in unavoidable circumstances.",
+        "Violation of law.",
+        "Allowed when traffic is less."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Road on which driving in reverse gear is prohibited",
+      "Answer": "One way road.",
+      "correctAnswer": "0",
+      "option": [
+        "One way road.",
+        "Market area.",
+        "State highway."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When you reach an intersection where there is no signal light or police man, you will",
+      "Answer": "Give way to the traffic approaching from your right side and proceed.",
+      "correctAnswer": "2",
+      "option": [
+        "Give way to all traffic approaching the intersection from other roads.",
+        "Give proper signal",
+        "sound the horn and proceed.",
+        "Give way to the traffic approaching from your right side and proceed."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Type of horn permitted?",
+      "Answer": "Electric horn.",
+      "correctAnswer": "2",
+      "option": [
+        "Air-horn.",
+        "Multi-toned horn.",
+        "Electric horn."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Validity of vehicle insurance is",
+      "Answer": "1 year.",
+      "correctAnswer": "1",
+      "option": [
+        "6 months.",
+        "1 year.",
+        "2 years."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "To carry pillion rider on a motor cycle",
+      "Answer": "The vehicle should have foot rest, hand grip and sari guard",
+      "correctAnswer": "0",
+      "option": [
+        "The vehicle should have foot rest",
+        "hand grip and sari guard",
+        "The vehicle should have side car.",
+        "The vehicle should have rear view mirror."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Abandoning vehicle in a public place causing inconvenience to others or passengers,",
+      "Answer": "The driving licence is liable to be suspended/cancelled, Or Fine is attracted",
+      "correctAnswer": "2",
+      "option": [
+        "The driving licence is liable to be suspended/cancelled.",
+        "Fine is attracted.",
+        "Both of the above."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Documents of non transport vehicles to be kept in the vehicle are",
+      "Answer": "Registration certificate, PUC, Insurance certificate and Driving licence.",
+      "correctAnswer": "0",
+      "option": [
+        "Registration certificate and PUC and Insurance certificate and Driving licence.",
+        "Registration certificate and Insurance certificate and Tax token and Driving licence.",
+        "Registration certificate and Permit and Trip sheet."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While you are approaching an intersection where the yellow signal light is blinking, you should",
+      "Answer": "Slow down the vehicle and proceed only after ensuring that it is safe to move.",
+      "correctAnswer": "2",
+      "option": [
+        "As there is no restriction",
+        "proceed with same speed.",
+        "Stop the vehicle and wait for green to appear.",
+        "Slow down the vehicle and proceed only after ensuring that it is safe to move."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While turning to the left, the driver of a two wheeler shall",
+      "Answer": "Show left turn signal with his right hand or signal by indicator.",
+      "correctAnswer": "2",
+      "option": [
+        "Extend his left hand toward left.",
+        "Not show hand signal.",
+        "Show left turn signal with his right hand or signal by indicator."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When the vehicle from behind has begun to overtake our vehicle",
+      "Answer": "We shall not overtake another vehicle.",
+      "correctAnswer": "0",
+      "option": [
+        "We shall not overtake another vehicle.",
+        "We can overtake another vehicle.",
+        "We can overtake another vehicle blowing horn."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While a vehicle entering a main road from a branch road, the driver shall give preference",
+      "Answer": "To the vehicles coming from the right.",
+      "correctAnswer": "1",
+      "option": [
+        "To the vehicles coming from the left.",
+        "To the vehicles coming from the right.",
+        "To all the vehicles proceeding along the main road."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While you are driving on gradient road, you should",
+      "Answer": "Give precedence to the vehicles going uphill.",
+      "correctAnswer": "1",
+      "option": [
+        "Give precedence to the vehicles coming down the hill.",
+        "Give precedence to the vehicles going uphill.",
+        "Give precedence to the vehicles carrying heavy load."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "If the road is marked with broken white lines, you",
+      "Answer": "Can change the track if required.",
+      "correctAnswer": "1",
+      "option": [
+        "Shall not change the track.",
+        "Can change the track if required.",
+        "Shall stop the vehicle."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Blinking yellow traffic light means",
+      "Answer": "Reduce speed and proceed safely.",
+      "correctAnswer": "2",
+      "option": [
+        "Stop the vehicle till green light glows.",
+        "Stop the vehicle and proceed if safe.",
+        "Reduce speed and proceed safely."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "How does the stopping distance of a vehicle get affected while applying brake during rain?",
+      "Answer": "Stopping distance increases",
+      "correctAnswer": "0",
+      "option": [
+        "Stopping distance increases",
+        "Stopping distance increases.",
+        "Does not effect."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Where it is not safe to reverse your car, you should",
+      "Answer": "Go ahead to find suitable place to reverse the car.",
+      "correctAnswer": "0",
+      "option": [
+        "Go ahead to find suitable place to reverse the car.",
+        "Use all rear view mirrors properly.",
+        "Turn on the reverse horn and reverse."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When a vehicle is parked on the road side during night",
+      "Answer": "The parking light shall remain lit.",
+      "correctAnswer": "2",
+      "option": [
+        "The vehicle should be locked.",
+        "The person having licence to drive such a vehicle should be in the driver's seat.",
+        "The parking light shall remain lit."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "You can overtake a vehicle through the left side, if",
+      "Answer": "The driver of that vehicle indicated his intention to turn right and proceeds to the center of the road.",
+      "correctAnswer": "0",
+      "option": [
+        "The driver of that vehicle indicated his intention to turn right and proceeds to the center of the road",
+        "There is sufficient space on the left side.",
+        "The vehicle moves slowly."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "If you hold a learners licence for motor cycle?",
+      "Answer": "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies.",
+      "correctAnswer": "1",
+      "option": [
+        "You will drive when the traffic is less.",
+        "You will drive the vehicle only when an instructor holding driving licence to drive motor cycle accompanies.",
+        "You will carry any other person on the motor cycle."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Overtaking is prohibited in following circumstances",
+      "Answer": "When it is likely to cause inconveniences or danger to other traffic.",
+      "correctAnswer": "0",
+      "option": [
+        "When it is likely to cause inconveniences or danger to other traffic.",
+        "When the vehicle in front is reducing speed.",
+        "During night."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The color scheme of number plate for private vehicle is",
+      "Answer": "Black background with yellow letters.",
+      "correctAnswer": "2",
+      "option": [
+        "Yellow background with black letters.",
+        "Black background with white letters.",
+        "Black background with yellow letters."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Minimum age required to procure a commercial driving licence for LMV",
+      "Answer": "20 years.",
+      "correctAnswer": "2",
+      "option": [
+        "18 years.",
+        "21 years.",
+        "20 years."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While parking the vehicle",
+      "Answer": "Parking brake should be applied.",
+      "correctAnswer": "1",
+      "option": [
+        "Vehicle should be engaged in gear.",
+        "Parking brake should be applied.",
+        "Only hazard (parking) light should be applied."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Zebra lines are meant for",
+      "Answer": "Pedestrian crossing.",
+      "correctAnswer": "1",
+      "option": [
+        "Stopping vehicle.",
+        "Pedestrian crossing.",
+        "For giving preferences to vehicles."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Fog lamps are used",
+      "Answer": "When there is mist/fog in atmosphere.",
+      "correctAnswer": "1",
+      "option": [
+        "During night.",
+        "When there is mist/fog in atmosphere.",
+        "When the vehicle in opposite direction is not using dim light."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Driver of a vehicle may overtake",
+      "Answer": "When the driver of the vehhicle ahead shows the signal to overtake.",
+      "correctAnswer": "2",
+      "option": [
+        "While driving down the hill.",
+        "If the road is not sufficiently wide.",
+        "When the driver of the vehhicle ahead shows the signal to overtake."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Vehicles proceeding from opposite direction should be allowed to pass through",
+      "Answer": "Your right side.",
+      "correctAnswer": "0",
+      "option": [
+        "Your right side.",
+        "Your left side.",
+        "The convenient side."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Overtaking is prohibited",
+      "Answer": "When the road ahead is not clearly visible.",
+      "correctAnswer": "0",
+      "option": [
+        "When the road ahead is not clearly visible.",
+        "In the night.",
+        "When the center of the road is marked with white broken lines."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The driver of a vehicle extends his right arm with the palm downwards and moves the palm upwards and downwards several times you will understand that",
+      "Answer": "He is slowing down the vehicle",
+      "correctAnswer": "1",
+      "option": [
+        "He is turning to the left.",
+        "He is slowing down the vehicle",
+        "He is allowing to overtake."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "It is compulsory for a driver to wear uniform while driving",
+      "Answer": "All commercial vehicle.",
+      "correctAnswer": "1",
+      "option": [
+        "Private vehicle.",
+        "All commercial vehicle.",
+        "All vehicles."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The only vehicle that is permitted to be driven at a speed exceeding 65 Km/hr is",
+      "Answer": "Motor car.",
+      "correctAnswer": "1",
+      "option": [
+        "Motor cycle.",
+        "Motor car.",
+        "Stage carriage."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Boarding in or alighting from a vehicle while in motion",
+      "Answer": "Prohibited in all vehicles.",
+      "correctAnswer": "2",
+      "option": [
+        "Permitted in bus.",
+        "Permitted in auto-rickshaw.",
+        "Prohibited in all vehicles."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "You can save fuel by",
+      "Answer": "Proper tuning of the vehicle.",
+      "correctAnswer": "0",
+      "option": [
+        "Proper tuning of the vehicle.",
+        "Proper cleaning of the vehicle.",
+        "Making excessive use of clutch while driving."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Rear view mirror is used",
+      "Answer": "For watching traffic approaching from behind.",
+      "correctAnswer": "1",
+      "option": [
+        "For seeing face.",
+        "For watching traffic approaching from behind.",
+        "For seeing the back seat passenger."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Maximum speed allowed for motor cars",
+      "Answer": "No limit",
+      "correctAnswer": "0",
+      "option": [
+        "No limit",
+        "70 Km/hr.",
+        "50 Km/hr."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "According to law, a person driving a motor cycle shall",
+      "Answer": "Wear helmet.",
+      "correctAnswer": "1",
+      "option": [
+        "Wear jacket.",
+        "Wear helmet.",
+        "Wear shoes"
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Unnecessary and repeated use of horn is prohibited under the law",
+      "Answer": "Yes.",
+      "correctAnswer": "0",
+      "option": [
+        "Yes.",
+        "No.",
+        "There is no law."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "What is the validity of pollution under control certificate?",
+      "Answer": "6 months.",
+      "correctAnswer": "1",
+      "option": [
+        "6 months.",
+        "1 month.",
+        "2 months."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Which traffic light should lit after green light at junction?",
+      "Answer": "Yellow.",
+      "correctAnswer": "2",
+      "option": [
+        "Red.",
+        "Blue.",
+        "Yellow."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "What is the color scheme of the number plate of a commercial vehicle?",
+      "Answer": "Yellow base and black letters.",
+      "correctAnswer": "0",
+      "option": [
+        "Yellow base and black letters.",
+        "Black base and white letters.",
+        "White base and black letters."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Drunken driving is",
+      "Answer": "Prohibited in all vehicles.",
+      "correctAnswer": "2",
+      "option": [
+        "Allowed in private vehicles.",
+        "Allowed during night time.",
+        "Prohibited in all vehicles."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Motor cycle can be driven at a speed of 50 Km/hr",
+      "Answer": "Any time.",
+      "correctAnswer": "2",
+      "option": [
+        "During night.",
+        "During daytime.",
+        "Any time."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The color of reverse light is",
+      "Answer": "White.",
+      "correctAnswer": "1",
+      "option": [
+        "Red.",
+        "White.",
+        "Orange."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While driving, what will you keep in mind?",
+      "Answer": "The weather and road conditions, Or The traffic around you ",
+      "correctAnswer": "2",
+      "option": [
+        "The weather and road conditions.",
+        "The traffic around you.",
+        "Both."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "How long driver can drive his vehicle after the expiry of his driving licence?",
+      "Answer": "30 days.",
+      "correctAnswer": "0",
+      "option": [
+        "30 days.",
+        "60 days.",
+        "Not a single day."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Where the “Slippery road sign” is seen on the road, the driver shall",
+      "Answer": "Reduce the speed by changing to lower gear.",
+      "correctAnswer": "0",
+      "option": [
+        "Reduce the speed by changing to lower gear.",
+        "Apply brakes.",
+        "Proceed at the same speed."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "According to law, a person driving a motor car shall",
+      "Answer": "Wear seat belt.",
+      "correctAnswer": "1",
+      "option": [
+        "Wear sunglasses.",
+        "Wear seat belt.",
+        "Wear cap."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Minimum age required to procure a driving licence for LMV is",
+      "Answer": "18 years.",
+      "correctAnswer": "1",
+      "option": [
+        "16 years.",
+        "18 years.",
+        "20 years."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "In case of an accident where driver was not holding a driving licence",
+      "Answer": "Insurance company shall not compensate.",
+      "correctAnswer": "1",
+      "option": [
+        "Insurance company shall compensate fully.",
+        "Insurance company shall not compensate.",
+        "Insurance company shall compensate partly."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "How driver can prevent fatigue while driving?",
+      "Answer": "By resting during the journey at every two hours.",
+      "correctAnswer": "1",
+      "option": [
+        "By drinking alcohol.",
+        "By resting during the journey at every two hours.",
+        "By listening to the music."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Using a mobile phone while driving",
+      "Answer": "Increases the chances of an accident.",
+      "correctAnswer": "0",
+      "option": [
+        "Increases the chances of an accident.",
+        "Saves time and effort for a task.",
+        "Permissible in case of an emergency."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While driving down the hill, you should",
+      "Answer": "Keep the clutch pressed and roll the vehicle , Or Switch off the engine and roll the vehicle to save fuel ",
+      "correctAnswer": "2",
+      "option": [
+        "Keep the clutch pressed and roll the vehicle.",
+        "Switch off the engine and roll the vehicle to save fuel.",
+        "Avoid both."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While parking your vehicle at night, you should",
+      "Answer": "Apply parking brake , Or Turn parking lights on ",
+      "correctAnswer": "2",
+      "option": [
+        "Apply parking brake.",
+        "Turn parking lights on.",
+        "Apply both."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "An area guarded with a ribbon in red and white color indicates",
+      "Answer": "Road repairing work is going on.",
+      "correctAnswer": "0",
+      "option": [
+        "Road repairing work is going on.",
+        "Accident prone zone.",
+        "Check post ahead"
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "A driving licence issued by R.T.O is valid",
+      "Answer": "Through out the country.",
+      "correctAnswer": "0",
+      "option": [
+        "Through out the country.",
+        "In that particular state only.",
+        "In that particular district only."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The color of stop-line used on road is",
+      "Answer": "White.",
+      "correctAnswer": "1",
+      "option": [
+        "Yellow",
+        "White.",
+        "Yellow and black."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Wearing a helmet by a woman while driving a two wheeler is",
+      "Answer": "Compulsory by law.",
+      "correctAnswer": "0",
+      "option": [
+        "Compulsory by law.",
+        "Not compulsory by law.",
+        "It is up to their choice to wear."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The compulsory safety device in a car to protect passengers in case of accident is",
+      "Answer": "Seat belt.",
+      "correctAnswer": "0",
+      "option": [
+        "Seat belt.",
+        "Brake pedal",
+        "Air bag."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While driving behind a longer vehicle, you should",
+      "Answer": "Maintain a very long distance to have a better view of the traffic ahead of it.",
+      "correctAnswer": "2",
+      "option": [
+        "Maintain shorter distance from it.",
+        "Can drive very close to it as it is not going to stop.",
+        "Maintain a very long distance to have a better view of the traffic ahead of it."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Yellow continuous line marked at the middle of the road indicates",
+      "Answer": "Crossing the yellow line is prohibited.",
+      "correctAnswer": "1",
+      "option": [
+        "Overtaking permitted.",
+        "Crossing the yellow line is prohibited.",
+        "Drive can go on the other side of this lane."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "You have fitted LPG/CNG fitment in your car from an approved fitment center. Is it compulsory to get it registered at R.T.O?",
+      "Answer": "Yes.",
+      "correctAnswer": "0",
+      "option": [
+        "Yes.",
+        "No.",
+        "No need as it is done at an approved center."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Drinking alcohol and driving invites",
+      "Answer": "Wrong judgement by driver , Or Reduced vision of driver",
+      "correctAnswer": "2",
+      "option": [
+        "Wrong judgement by driver.",
+        "Reduced vision of driver.",
+        "Both."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The average pulse rate of an adult is",
+      "Answer": "70 per minute.",
+      "correctAnswer": "1",
+      "option": [
+        "60 per minute.",
+        "70 per minute.",
+        "100 per minute."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When child lock is applied in a car",
+      "Answer": "Door can be opened from outside only.",
+      "correctAnswer": "1",
+      "option": [
+        "Door can be opened from inside only.",
+        "Door can be opened from outside only.",
+        "Door can be opened from both sides."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Parking is prohibited in following case",
+      "Answer": "Near traffic light.",
+      "correctAnswer": "2",
+      "option": [
+        "Road side.",
+        "Where parking is permitted.",
+        "Near traffic light."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "The temperature gauge in the dash board of a car indicates the temperature of",
+      "Answer": "The engine.",
+      "correctAnswer": "2",
+      "option": [
+        "The weather outside of the car.",
+        "Inside the car.",
+        "The engine."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "On a road without footpath the pedestrians",
+      "Answer": "Should walk on the right side of the road.",
+      "correctAnswer": "1",
+      "option": [
+        "Should walk on the left side of the road.",
+        "Should walk on the right side of the road.",
+        "May walk on either side of the road."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Driving a vehicle without the brake light is",
+      "Answer": "An offense.",
+      "correctAnswer": "1",
+      "option": [
+        "Valid for two wheeler.",
+        "An offense.",
+        "Valid for trucks only."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Validity of learners licence is",
+      "Answer": "6 months.",
+      "correctAnswer": "1",
+      "option": [
+        "Till driving licence is obtained.",
+        "6 months.",
+        "30 days."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "You can overtake a vehicle in front",
+      "Answer": "From the right side of the vehicle.",
+      "correctAnswer": "0",
+      "option": [
+        "From the right side of the vehicle.",
+        "Through the left side.",
+        "Through the left side if the road is wide."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "ABC in first-aid means",
+      "Answer": "Airway, Breathing, Circulation.",
+      "correctAnswer": "1",
+      "option": [
+        "Attentive and Breath and Contact.",
+        "Airway and Breathing and Circulation.",
+        "Accelerator and Brake and Clutch."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "On a road designated as one way",
+      "Answer": "Should not drive in reverse gear.",
+      "correctAnswer": "2",
+      "option": [
+        "Parking is prohibited.",
+        "Overtaking is prohibited.",
+        "Should not drive in reverse gear."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "In case of an accident, which knowledge can be helpful to you to save human life?",
+      "Answer": "First-aid.",
+      "correctAnswer": "1",
+      "option": [
+        "Vehicle maintenance.",
+        "First-aid.",
+        "Legal."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Incorrect gear shifting may lead to",
+      "Answer": "Damage on gear box , Or Higher fuel consumption",
+      "correctAnswer": "2",
+      "option": [
+        "Damage on gear box.",
+        "Higher fuel consumption.",
+        "Both."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While changing lanes you should",
+      "Answer": "Use indicator and change lanes.",
+      "correctAnswer": "1",
+      "option": [
+        "Blow horn and change lane.",
+        "Use indicator and change lanes.",
+        "No need to use indicator just look in the mirror and change lane."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "While moving to the left lane to stop, you should",
+      "Answer": "Lit the left side indicator.",
+      "correctAnswer": "0",
+      "option": [
+        "Lit the left side indicator.",
+        "Lit the right side indicator.",
+        "Lit parking light."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Why tyre rotation is advisable in a vehicle?",
+      "Answer": "It avoids abnormal wear on the tyre.",
+      "correctAnswer": "2",
+      "option": [
+        "It maintains wheel balancing.",
+        "It maintains wheel alignment.",
+        "It avoids abnormal wear on the tyre."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Minor driving a car and meets an accident",
+      "Answer": "Offence as per the law to be registered and penalties to be applied.",
+      "correctAnswer": "2",
+      "option": [
+        "SInce. he is a minor",
+        "he can not be punished.",
+        "Parents or guardian of a minor may also be held responsible.",
+        "Offence as per the law to be registered and penalties to be applied."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "In case of an accident, someone is suffering from a serious back injury, you should",
+      "Answer": "Not move the victim and try to warn other traffic about the accident.",
+      "correctAnswer": "1",
+      "option": [
+        "Lift the victim and take to a safe place.",
+        "Not move the victim and try to warn other traffic about the accident.",
+        "Raise his legs to check the injury."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "In case of an accident someone is suffering from skin burn, you should",
+      "Answer": "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance.",
+      "correctAnswer": "0",
+      "option": [
+        "Douse the burns thoroughly with cold water and take the victim under a shelter and call ambulance.",
+        "Burst blisters.",
+        "Remove his clothes stuck to the burns."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When any property of a third party is damaged due to an accident",
+      "Answer": "The driver shall report to the nearest police station within 24 hours.",
+      "correctAnswer": "0",
+      "option": [
+        "The driver shall report to the nearest police station within 24 hours.",
+        "The driver shall report to the nearest police station within 7 days.",
+        "Need not report to any police station."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When a motor vehicle is involved in an accident, the driver",
+      "Answer": "Shall report to the nearest police station within 24 hours.",
+      "correctAnswer": "0",
+      "option": [
+        "Shall report to the nearest police station within 24 hours.",
+        "Shall report to the nearest police station within 12 hours.",
+        "Shall report to the nearest police station within 48 hours."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "When a vehicle approaches an unguarded railway level crossing, before crossing it, the driver shall",
+      "Answer": "Stop the vehicle on the left side of the road, get down from the vehicle, go to the railway track and ensure that no train or trolley is coming from either side.",
+      "correctAnswer": "0",
+      "option": [
+        "Stop the vehicle on the left side of the road",
+        "get down from the vehicle",
+        "go to the railway track and ensure that no train or trolley is coming from either side.",
+        "Sound horn and cross the track as fast as possible.",
+        "Sound horn and cross the track as fast as possible."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "A 10 year old child sitting in the front seat of the car should buckle the seat belt?",
+      "Answer": "It is compulsory",
+      "correctAnswer": "1",
+      "option": [
+        "Not necessary for children.",
+        "It is compulsory.",
+        "Valid only on rear seats."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Driving a vehicle without the silencer is",
+      "Answer": "An offence.",
+      "correctAnswer": "0",
+      "option": [
+        "An offence.",
+        "Not an offence.",
+        "Valid for a range of sound."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "If a person in charge of an animal (apprehending that the animal may become unmanageable) request to stop a vehicle",
+      "Answer": "the driver shall stop the vehicle.",
+      "correctAnswer": "0",
+      "option": [
+        "the driver shall stop the vehicle.",
+        "The driver shall proceed",
+        "blowing the horns.",
+        "The driver shall reduce the speed."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "To be helpful to an unconscious person in case of an accident, you should",
+      "Answer": "ensure free supply of air and in winter season wrap blanket around the body and Not let people stand nearby ",
+      "correctAnswer": "2",
+      "option": [
+        "Not let people stand nearby",
+        "ensure free supply of air and in winter season wrap blanket around the body.",
+        "Do both."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Overspeeding",
+      "Answer": "Is an offence leading to suspension or cancellation of driving licence Or Is an offence leading to punishment by fine only",
+      "correctAnswer": "2",
+      "option": [
+        "Is an offence leading to suspension or cancellation of driving licence.",
+        "Is an offence leading to punishment by fine only.",
+        "May both."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "http:www.google.com",
+      "Question": "You are approaching a narrow bridge, another vehicle is about to enter the bridge from opposite side, you",
+      "Answer": "Wait till the other vehicle crosses the bridge and then proceed",
+      "correctAnswer": "2",
+      "option": [
+        "Increase the speed and try to cross the bridge as fast as possible",
+        "Put on the headlight and pass the bridge",
+        "Wait till the other vehicle crosses the bridge and then proceed"
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "In which of the following places, parking is prohibited?",
+      "Answer": "Blocking a fire hydrant.",
+      "correctAnswer": "0",
+      "option": [
+        "Blocking a fire hydrant.",
+        "Near a public well.",
+        "Left side of the road."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Overtaking when approaching a bend(turn)",
+      "Answer": "Is not permissible.",
+      "correctAnswer": "1",
+      "option": [
+        "Is permissible.",
+        "Is not permissible.",
+        "Is permissible with care."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "In case of an accident to seek a medical help, you should dial",
+      "Answer": "108 or 102",
+      "correctAnswer": "0",
+      "option": [
+        "108 or 102",
+        "101",
+        "Any of these."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "You want to overtake a vehicle near a hospital, you will",
+      "Answer": "Not blow horn.",
+      "correctAnswer": "1",
+      "option": [
+        "Blow horn continuously.",
+        "Not blow horn.",
+        "blow horn."
+      ]
+    },
+    {
+      "Isimage": "0",
+      "ImageUrl": "",
+      "Question": "Is it compulsory to have vehicle insurance?",
+      "Answer": "Yes.",
+      "correctAnswer": "0",
+      "option": [
+        "Yes.",
+        "No.",
+        "Not compulsory if you are insured with life insurance."
+      ]
+    }
+  ]
+}

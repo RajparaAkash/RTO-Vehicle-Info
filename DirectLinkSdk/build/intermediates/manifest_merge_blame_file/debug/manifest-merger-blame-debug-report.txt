@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sdk.direct.link.open.on.fail.sdk" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="33" />
+7-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+9-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:5:5-79
+9-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:5:22-76
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:6:5-67
+10-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:6:22-64
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:7:5-76
+11-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:7:22-73
+12
+13    <application
+13-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:9:5-19:19
+14        android:allowBackup="true"
+14-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:10:9-35
+15        android:hardwareAccelerated="true"
+15-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:11:9-43
+16        android:largeHeap="true"
+16-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:12:9-33
+17        android:requestLegacyExternalStorage="true"
+17-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:13:9-52
+18        android:supportsRtl="true"
+18-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:14:9-35
+19        android:theme="@style/AppTheme"
+19-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:15:9-40
+20        android:usesCleartextTraffic="true" >
+20-->E:\RTOVehicleInfo\DirectLinkSdk\src\main\AndroidManifest.xml:16:9-44
+21    </application>
+22
+23</manifest>
